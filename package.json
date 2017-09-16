@@ -1,0 +1,22 @@
+{
+  "name": "npm-mydemo",
+  "version": "1.0.0",
+  "description": "测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "123"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "lc",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2"
+  }
+}
